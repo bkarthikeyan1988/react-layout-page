@@ -1,0 +1,19 @@
+@import '../../common/reset.css';
+
+.cardBlock {
+    background: #FFF;
+    border-radius: 4px;
+}
+
+.imageBlock img {
+    width: 100%;
+}
+
+.cardInfo {
+    padding: 8px 12px;
+}
+
+.cardInfo h3 {
+    font-size: 18px;
+    margin-bottom: 4px;
+}

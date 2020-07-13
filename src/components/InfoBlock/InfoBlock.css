@@ -1,0 +1,27 @@
+@import '../../common/reset.css';
+
+.infoBlock {margin-bottom: 16px;}
+
+.infoBlock h3 {
+    color: #019031;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 8px;
+}
+
+.moreInfo {
+    border-top: 1px solid #A4B0BD;
+    border-bottom: 1px solid #A4B0BD;
+    padding: 16px 0;
+    margin-bottom: 16px;
+}
+  
+.moreBtn {
+    background: #1287A5;
+    padding: 4px 8px;
+    margin-left: 8px;
+    border: 0;
+    box-shadow: 0;
+    color: #FFF;
+    cursor: pointer;
+}

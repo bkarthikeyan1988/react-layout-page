@@ -1,0 +1,21 @@
+@import '../../common/reset.css';
+
+footer {
+    background: #DAE0E2;
+    padding: 8px 16px;
+    display: block;
+    overflow: hidden;
+    margin-top: 16px;
+}
+
+.footerContactInfo {
+    float: left;
+}
+
+.footerContactInfo a {
+    color: #019031;
+}
+
+.copyrightInfo {
+    float: right;
+}

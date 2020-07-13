@@ -1,0 +1,11 @@
+@import './common/reset.css';
+
+body {
+  background: #EAF0F1;
+  font: normal 14px/20px "Helvetica", arial, sans-serif;
+  color: #2C3335;
+}
+
+main {
+  padding: 0 16px;
+}

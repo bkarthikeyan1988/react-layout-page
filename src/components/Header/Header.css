@@ -1,0 +1,19 @@
+@import '../../common/reset.css';
+
+header {
+    background: #DAE0E2;
+    padding: 8px 16px;
+    display: flex;
+    align-content: center;
+    margin-bottom: 16px;
+}
+
+.logoBlock {
+    width: 75px;
+}
+
+.logoText {
+    font-size: 36px;
+    line-height: 48px;
+    color: #218F76;
+}
